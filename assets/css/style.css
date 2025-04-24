@@ -27,6 +27,11 @@ h1 {
     font-family: 'oswald', sans-serif;
 }
 
+nav {
+    display:flex;
+    flex-direction:column
+}
+
 /* Main content  */
 main {
     background-color: lightblue;
