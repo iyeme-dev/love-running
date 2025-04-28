@@ -246,7 +246,6 @@ hr {
 }
 
 /* Footer */
-footer {
   #social-networks {
     text-align: center;
     padding: 20px 0;
@@ -260,7 +259,7 @@ footer {
     padding: 5%;
     color: #3a3a3a;
   }
-}
+
 
 /* Media query: tablets and larger (768px and up) */
 @media screen and (min-width: 576px) {
