@@ -1,7 +1,5 @@
 # Love Running 🏃‍♂️
 
-![Love Running Banner](./images/banner.png)
-
 A community-driven website that promotes running as a healthy, social, and enjoyable activity for all levels.
 
 ---
@@ -219,10 +217,8 @@ Overall, the website passes functional, visual, performance, and accessibility s
 
 ---
 
-## 📚 Credit and References
-- [Home Staging README example](https://github.com/iyeme-dev/home-staging?tab=readme-ov-file)  
+## 📚 Credit and References 
 - Free images from Unsplash for gallery  
-- W3C HTML & CSS Validation  
 
 ---
 
@@ -230,5 +226,6 @@ Overall, the website passes functional, visual, performance, and accessibility s
 **Iyeme Dev** – [GitHub Profile](https://github.com/iyeme-dev)
 
 ---
+
 
 
